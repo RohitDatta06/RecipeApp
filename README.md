@@ -63,11 +63,8 @@ Then open http://localhost:3000 in your browser.
 
 ## Developers
 
-- **Rohit (rohit7)** – Frontend Devekioer
-  _Built React interface, scroll feed, modals, filters, and API integration_
+- **Rohit (rohit7)**
 
-- **[Chris (zychan2)]** – Backend Developer  
-  _Built Flask APIs, database schema, and LLM communication logic_
+- **[Chris (zychan2)]** 
 
-- **[Sam (sjs17)]** – Prompt Engineering & Testing  
-  _Designed prompts for LLM, validated response formats, and assisted integration_
+- **[Sam (sjs17)]**
