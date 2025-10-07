@@ -1,0 +1,58 @@
+.filter-controls {
+  margin-top: 20px;
+}
+
+.filter-toggle-button {
+  background-color: #1a73e8;
+  color: white;
+  padding: 8px 12px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  width: 100%;
+}
+
+.filters-container {
+  margin-top: 16px;
+  background-color: #fff;
+  padding: 16px;
+  border-radius: 8px;
+  border: 1px solid #e0e0e0;
+}
+
+.filter-section {
+  margin-bottom: 16px;
+}
+
+.calorie-range label {
+  display: block;
+  font-size: 13px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  color: #555;
+}
+
+.calorie-range input[type="range"] {
+  width: 100%;
+  margin-bottom: 8px;
+}
+
+.meal-type-dropdown {
+  width: 100%;
+  padding: 8px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+  background-color: white;
+}
+
+.reset-filters-button {
+  margin-top: 12px;
+  background-color: #f44336;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 8px 12px;
+  width: 100%;
+  cursor: pointer;
+}

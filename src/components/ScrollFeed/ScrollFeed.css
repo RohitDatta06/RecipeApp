@@ -1,0 +1,24 @@
+.scroll-feed {
+    height: 100%;
+    overflow-y: scroll;
+    scroll-snap-type: y mandatory;
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  .feed-item {
+    height: 100vh;
+    width: 100%;
+    scroll-snap-align: start;
+    scroll-snap-stop: always;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .scroll-feed::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .scroll-feed {
+    -ms-overflow-style: none;  
+    scrollbar-width: none; 
+  }
